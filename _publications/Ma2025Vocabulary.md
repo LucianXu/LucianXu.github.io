@@ -7,5 +7,5 @@ excerpt: 'Numerous studies have demonstrated that the Transformer architecture p
 date: 2025-09-18
 venue: 'Neural Information Processing Systems'
 paperurl: 'http://lucianxu.github.io/files/9346_Vocabulary_In_Context_Lea.pdf'
-citation: 'Q. Ma, R. Xu, and Y. Cai, “Vocabulary in-context learning in transformers: Benefits of positional encoding,” in Conference on Neural Information Processing Systems, 2025.'
+citation: '```Q. Ma, R. Xu, and Y. Cai, “Vocabulary in-context learning in transformers: Benefits of positional encoding,” in Conference on Neural Information Processing Systems, 2025.```'
 ---
