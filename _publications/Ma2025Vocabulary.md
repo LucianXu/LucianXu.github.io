@@ -1,5 +1,5 @@
 ---
-title: "Vocabulary In-Context Learning in Transformers: Benefits of Positional Encoding
+title: "Vocabulary In-Context Learning in Transformers: Benefits of Positional Encoding"
 collection: publications
 category: conferences
 permalink: [openreview](https://openreview.net/forum?id=W0DDiJeZo6&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2025%2FConference%2FAuthors%23your-submissions))
@@ -9,5 +9,3 @@ venue: 'Neural Information Processing Systems'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Q. Ma, R. Xu, and Y. Cai, “Vocabulary in-context learning in transformers: Benefits of positional encoding,” in Conference on Neural Information Processing Systems, 2025.'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
